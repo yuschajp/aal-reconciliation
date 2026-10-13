@@ -218,7 +218,7 @@ This engine is configured for Saba Capital's reconciliation workflow:
 - Automatic break detection and escalation
 - Integration with Imagine TS, North Star, and SS&C exports
 
-**Contact:** Joe Yuschak (joe@saba.com)
+**Contact:** Joe Yuschak (joe@aialphalabs.ai)
 
 ---
 
